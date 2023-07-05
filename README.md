@@ -1,9 +1,10 @@
 # Hi there! I'm Mursalin 👋
 
-🔭 Currently working on Angular & Spring Boot <br>
-🎯 Current year resolution: To work on new Java projects <br>
-💬 Ask me about Java Spring  <br>
-😄 Fun fact: I absolutely love Java <br>
+
+Backend : Java, Springboot <br>
+Frontend: JS , Angular<br>
+Database : MySQL , PostgreSQL<br>
+ 
 📫 Reach me via email <br>
 
 
