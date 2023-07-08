@@ -1,7 +1,7 @@
 # Hi there! I'm Mursalin 👋
 
 
-● Languages: Java  | JavaScript | Typescript  <br>
+● Languages: Java  | JavaScript | TypeScript  <br>
 ● Backend Frameworks: Spring Boot | Spring Data <br>
 ● Database: PostgreSQL | MySQL <br>
 ● ORM: Hibernate <br>
