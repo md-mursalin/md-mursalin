@@ -2,7 +2,7 @@
 
 
 ● Languages: Java  | JavaScript | TypeScript  <br>
-● Backend Frameworks: Spring Boot | Spring Data <br>
+● Backend Frameworks: Spring Boot | Spring Data JPA <br>
 ● Database: PostgreSQL | MySQL <br>
 ● ORM: Hibernate <br>
 ● Frontend Frameworks: Angular | Rxjs | Bootstrap  <br>
