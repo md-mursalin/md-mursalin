@@ -5,7 +5,7 @@
 ● Backend Frameworks: Spring Boot | Spring Data JPA <br>
 ● Database: PostgreSQL | MySQL <br>
 ● ORM: Hibernate <br>
-● Frontend Frameworks: ReactJS | Bootstrap | Material UI  <br>
+● Frontend Frameworks: React | Bootstrap | Material UI  <br>
 ● Version Control: Git | GitHub <br>
 ● Containerization: Docker <br>
 
