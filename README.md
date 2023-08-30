@@ -1,11 +1,11 @@
 # Hi there! I'm Mursalin 👋
 
 
-● Languages: Java  | JavaScript | TypeScript  <br>
+● Languages: Java  | JavaScript  <br>
 ● Backend Frameworks: Spring Boot | Spring Data JPA <br>
 ● Database: PostgreSQL | MySQL <br>
 ● ORM: Hibernate <br>
-● Frontend Frameworks: Angular | Rxjs | Bootstrap  <br>
+● Frontend Frameworks: ReactJS | Bootstrap | Material UI  <br>
 ● Version Control: Git | GitHub <br>
 ● Containerization: Docker <br>
 
