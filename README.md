@@ -1,12 +1,12 @@
 # Hi there! I'm Mursalin 👋
 
 
-● Languages: Java  | Python  <br>
-● Database: PostgreSQL | MySQL <br>
-● ORM: Hibernate <br>
-● Frontend Frameworks: React | Bootstrap   <br>
-● Version Control: Git | GitHub <br>
-● Containerization: Docker <br>
+## 🧰 Tools & Technologies
+
+- 💻 **Languages:** Python, Java  
+- 🤖 **AI & LLMs:** Ollama, LangChain, OpenAI APIs
+- 🗄️ **Databases:** PostgreSQL, Supabase, SQLite  
+- 🚀 **Frameworks & APIs:** FastAPI, Flask, Gradio  
 
  
 📫 Reach me via email <br>
